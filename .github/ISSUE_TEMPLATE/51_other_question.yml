@@ -1,0 +1,17 @@
+name: Other Question
+description: Ask a question related to Other
+title: "[Other]: "
+labels: ["other"]
+assignees: "sarvsav"
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your question
+      description: |
+        1. Clearly explain your question.
+        2. Add screenshots if required.
+        3. Provide necessary links.
+    validations:
+      required: true

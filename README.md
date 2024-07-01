@@ -1,23 +1,49 @@
-# Ask me anything
+# AMA
 
-**I'm unfortunately currently too busy to answer questions. I'll get back answering at some point.**
+<div align="center">
+    <a href="" title="Ask Me Anything">
+        <img width="250" height="250" src="assets/sarvsav-ask-me-anything.png" alt="Ask Me Anything" />
+    </a>
+</div>
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+<h2 align="center">
+:sparkles: Ask me anything! :sparkles:<br><br>
 
-I get a lot of questions by email. This way anyone can read the answer!
+
+
+<a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
+</h2>
+
+<h3>Answering questions via email provides value to only one person. Ask me anything here so everyone can benefit!</h3>
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-### Guidelines
+## 🗓️ Book a 1:1 meeting
 
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
+If you want to have a 1:1 meeting with me, you can book a slot [here](https://calendly.com/sarvsav/30min).
 
-### Links
+## 🔔 Get Notified
+
+Subscribe for updates by [watching the repo](https://github.com/sarvsav/ama/subscription).
+
+## 📜 Guidelines
+
+- :mag: Ensure your question hasn't already been answered.
+- :memo: Use a succinct title and description.
+- :bug: Bugs & feature requests should be opened on the relevant issue tracker.
+- :question: Support questions are better asked on Stack Overflow.
+- :blush: Be nice, civil and polite.
+- :heart_eyes: If you include at least one emoji in your question, the feedback will probably come faster.
+
+## 📍 Find Me
+
+You can find me on the internet in a few other places.
+
+- [Medium](https://medium.com/@sarvsav)
+- [LinkedIn](https://www.linkedin.com/in/sarvsav/)
+- [Twitter](https://twitter.com/sarvsav)
+
+## 📁 References
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/main/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
