@@ -18,6 +18,12 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+## 👤 About me
+
+I am an aspiring green developer who is passionate about building scalable and maintainable code using Go. I am also a tech writer and have written articles on Medium. I am a strong believer in the power of community and open-source.
+
+In my other time, I am biking, hiking, or reading books.
+
 ## 🗓️ Book a 1:1 meeting
 
 If you want to have a 1:1 meeting with me, you can book a slot [here](https://calendly.com/sarvsav/30min).
