@@ -34,6 +34,7 @@ Subscribe for updates by [watching the repo](https://github.com/sarvsav/ama/subs
 - :question: Support questions are better asked on Stack Overflow.
 - :blush: Be nice, civil and polite.
 - :heart_eyes: If you include at least one emoji in your question, the feedback will probably come faster.
+- :star: If you are happy with my answer. Please give a star to this repository.
 
 ## 📍 Find Me
 
