@@ -1,4 +1,4 @@
-# Ask me anything!
+# Ask me anything
 
 **I'm unfortunately currently too busy to answer questions. I'll get back answering at some point.**
 
