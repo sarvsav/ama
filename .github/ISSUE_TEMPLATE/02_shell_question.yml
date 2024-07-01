@@ -1,0 +1,17 @@
+name: Shell Question
+description: Ask a question related to Shell scripting
+title: "[Shell]: "
+labels: ["shell"]
+assignees: "sarvsav"
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your question
+      description: |
+        1. Clearly explain your question.
+        2. Add screenshots if required.
+        3. Provide necessary links.
+    validations:
+      required: true
